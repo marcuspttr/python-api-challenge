@@ -8,7 +8,7 @@ Pulling API's to analyze weather on a global scale and then planning an informed
 - Added the try/exception for cities that data could not be found for.
 - I believe I made the commit after seeing I could successfully export the data to a .csv
 
-9/18/2021 9:50 am Second Commmit:
+9/18/2021 9:50am Second Commmit:
 - Had a little struggle finding the indices for humidity values greater than 100%.
 - Otherwise created the indicated scatterplots and then linear regressions by hemisphere.
 - Good to have practice with these skills, I think I cleaned up the code and am happy with their look and the analysis.
