@@ -1,5 +1,5 @@
 # python-api-challenge
-Pulling API's to analyze weather on a global scale and then planning a vacation. 
+Pulling API's to analyze weather on a global scale and then planning an informed vacation. 
 
 9/17/2021 First Major Commit:
 - Struggled on setting up initial API requests. 
