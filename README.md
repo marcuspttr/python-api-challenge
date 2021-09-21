@@ -13,3 +13,11 @@ Pulling API's to analyze weather on a global scale and then planning an informed
 - Otherwise created the indicated scatterplots and then linear regressions by hemisphere.
 - Good to have practice with these skills, I think I cleaned up the code and am happy with their look and the analysis.
 - Still need to finish analysis on linear regressions.
+
+9/20/2021 Third Commit:
+- Had to fix the units from metric to imperial for temperature.
+- Started work on VacationPy:
+- Created initial heatmap based on humidity. Need to fix zoom level.
+- Filtered the weather dataframe based on given parameters to find perfect vacation spot.
+- Created a new dataframe with locations, added dummy spaces for hotel information.
+- Still need to use Google Places to find hotels in prompted cities then add Pins.
